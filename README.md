@@ -15,3 +15,7 @@
   - create a block
   - add coinbase transaction to block
   - mine block using pow
+  - mine genesis block
+* [04_blockchain.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/04_blockchain.ipynb)
+  - validate pow
+  - create a blockchain
