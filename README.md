@@ -4,18 +4,18 @@
 ### Content:                                                  
 
 * [01_transaction.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/01_transaction.ipynb)
-  - hash functions
-  - create a transaction
+  - hash function
+  - create transaction
 * [02_account.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/02_account.ipynb)
-  - create a public/private key pair
-  - create an account
-  - sign a transaction
+  - create public/private key pair
+  - create account
+  - sign transaction
   - validate signature
 * [03_block.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/03_block.ipynb)
-  - create a block
+  - create block
   - add coinbase transaction to block
   - mine block using pow
   - mine genesis block
 * [04_blockchain.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/04_blockchain.ipynb)
   - validate pow
-  - create a blockchain
+  - create blockchain
