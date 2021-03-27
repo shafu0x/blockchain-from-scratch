@@ -1,5 +1,5 @@
 # Blockchain from Scratch
-> Create a blockchain in pure python and simple cryptographic primitives.
+> Create a blockchain in pure python and basic cryptographic primitives.
 
 ### Content:                                                  
 
