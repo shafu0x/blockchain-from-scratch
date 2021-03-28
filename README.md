@@ -8,7 +8,7 @@
   - create transaction
 * [01a_merkle.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/01a_merkle.ipynb)
   - create merkle tree 
-  - compare trees
+  - merkle proof with merkle branch
 * [02_account.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/02_account.ipynb)
   - create public/private key pair
   - create account
