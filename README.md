@@ -15,10 +15,13 @@
   - sign transaction
   - validate signature
 * [03_block.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/03_block.ipynb)
+  - create block header
   - create block
+* [04_mine.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/03_block.ipynb)
+  - create miner
+  - create genesis block
   - add coinbase transaction to block
-  - mine block using pow
-  - mine genesis block
-* [04_blockchain.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/04_blockchain.ipynb)
+  - mine new block using pow
+* [05_blockchain.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/04_blockchain.ipynb)
   - validate pow
   - create blockchain
