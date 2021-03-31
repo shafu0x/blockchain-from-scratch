@@ -19,7 +19,7 @@
 * [05_block.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/05_block.ipynb)
   - create block header
   - create block
-* [06_mine.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/06_block.ipynb)
+* [06_mine.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/06_mine.ipynb)
   - create miner
   - create genesis block
   - add coinbase transaction to block
