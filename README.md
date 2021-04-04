@@ -30,7 +30,8 @@
   - apply state transition
   - update account state
 * [08_api.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/08_api.ipynb)
-  - post, get tx
-  - post, get block
+  - create new blockchain
+  - post, get, get all tx
+  - post, get, get all block
 * [08a_test.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/08a_test.ipynb)
   - test api
