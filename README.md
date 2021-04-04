@@ -39,4 +39,4 @@
 
 ### Visualization
 
-I wrote a small block-explorer for this blockchain [here](https://github.com/SharifElfouly/block-explorer)
+I wrote a small block-explorer that you can use to look at the blockchain [here](https://github.com/SharifElfouly/block-explorer).
