@@ -33,5 +33,10 @@
   - create new blockchain
   - post, get, get all tx
   - post, get, get all block
+  - get account info
 * [08a_test.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/08a_test.ipynb)
   - test api
+
+### Visualization
+
+I wrote a small block-explorer for this blockchain [here](https://github.com/SharifElfouly/block-explorer)
