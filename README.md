@@ -1,6 +1,9 @@
 # Blockchain from Scratch
 > Create a blockchain in pure python and basic cryptographic primitives.
 
+### Video Series:
+I'm currently in the process of creating a video series out of these notebooks that you can find [here](https://www.youtube.com/watch?v=aA8O3A3btCc&t=21s.)
+
 ### Content:                                                  
 
 * [01_hash.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/01_hash.ipynb)
