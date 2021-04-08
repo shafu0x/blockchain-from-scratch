@@ -14,7 +14,7 @@ I'm currently in the process of creating a video series out of these notebooks t
 * [03_merkle.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/03_merkle.ipynb)
   - create merkle tree 
   - merkle proof with merkle branch
-* [04_account.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/04_account.ipynb)
+* [04_wallet.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/04_wallet.ipynb)
   - create public/private key pair
   - create account
   - sign transaction
