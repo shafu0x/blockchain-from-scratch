@@ -41,7 +41,7 @@ I'm currently in the process of creating a video series out of these notebooks t
   - test api
 
 **Under heavy dev**
-* [99_contract](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/99_contract.ipynb)
+* [99_contract.ipynb](https://github.com/SharifElfouly/blockchain-from-scratch/blob/main/99_contract.ipynb)
   - Create/Run Smart Contracts
 
 ### Visualization
